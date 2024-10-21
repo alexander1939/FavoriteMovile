@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871760583295",
+    "project_id": "favoritemovie-d9855",
+    "storage_bucket": "favoritemovie-d9855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871760583295:android:9d6cda9f7beefcd2c53d4a",
+        "android_client_info": {
+          "package_name": "com.favoritemovie.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871760583295-vtgvifdcelsh1e0bk6att56jgci27c05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1XAXna9I74mMtzrvYfnlxJdMtcPIwM1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871760583295-vtgvifdcelsh1e0bk6att56jgci27c05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
