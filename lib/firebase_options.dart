@@ -64,7 +64,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '871760583295',
     projectId: 'favoritemovie-d9855',
     storageBucket: 'favoritemovie-d9855.appspot.com',
-    iosClientId: '871760583295-etqgti54v4hjd2hboh2189q35b0n02n9.apps.googleusercontent.com',
+    iosClientId:
+        '871760583295-etqgti54v4hjd2hboh2189q35b0n02n9.apps.googleusercontent.com',
     iosBundleId: 'com.example.favoriteMovie',
   );
 
@@ -74,7 +75,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '871760583295',
     projectId: 'favoritemovie-d9855',
     storageBucket: 'favoritemovie-d9855.appspot.com',
-    iosClientId: '871760583295-etqgti54v4hjd2hboh2189q35b0n02n9.apps.googleusercontent.com',
+    iosClientId:
+        '871760583295-etqgti54v4hjd2hboh2189q35b0n02n9.apps.googleusercontent.com',
     iosBundleId: 'com.example.favoriteMovie',
   );
 
